@@ -10,8 +10,8 @@ require([
         var view = new MapView({
           map: map,
           container: "viewDiv",
-          zoom: 10,
-          center: [-90, 38]
+          zoom: 12,
+          center: [-90.1994, 38.6270]
         });
 
         var layer = Layer.fromPortalItem({
